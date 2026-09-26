@@ -1,0 +1,7 @@
+section,parameter,metric,passive,co_contracted,pct_change,p,d
+Head,Peak velocity (cm/s),head_peak_vel,"149.7 ± 11.2 [144.3, 155.0]","140.0 ± 12.9 [133.8, 146.3]",-6.4%,0.003,-0.78
+Head,Peak acceleration (g),head_peak_acc,"10.28 ± 0.87 [9.86, 10.70]","10.13 ± 1.04 [9.62, 10.63]",-1.5%,0.415,-0.19
+Head,Peak vector angular velocity (rad/s),peak_omega,"4.94 ± 0.76 [4.57, 5.30]","4.53 ± 0.77 [4.16, 4.91]",-8.1%,0.022,-0.58
+Head,Peak vector angular acceleration (rad/s^2),peak_alpha,"328 ± 63 [298, 359]","316 ± 60 [287, 345]",-3.8%,0.333,-0.23
+Torso,Peak velocity (cm/s),torso_peak_vel,"43.6 ± 11.0 [38.3, 48.9]","44.1 ± 12.5 [38.1, 50.2]",1.2%,0.865,0.04
+Torso,Peak acceleration (g),torso_peak_acc,"2.29 ± 1.28 [1.67, 2.90]","2.19 ± 0.81 [1.80, 2.59]",-4.1%,0.713,-0.09
