@@ -74,3 +74,11 @@ Torso tracking points were visible anatomical or clothing landmarks and were not
 Please cite the manuscript above and [Reynier et al. (2020)](https://doi.org/10.1007/s10439-020-02609-7) when using this repository. The manuscript is under review; the reference CSVs describe the September 2026 revision.
 
 Code: [MIT License](LICENSE). Data in `data/`: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+<!-- local-workspace-location -->
+## Local workspace
+
+The organized local checkout lives at `~/Documents/Github/academic/head-torso-coupling-data-and-code`.
+Read `AGENTS.md` for repository instructions. `CLAUDE.md` and `CODEX.md` point to the same workflow.
+Shared academic defaults live in `../../shared/knowledge/academic/AGENTS.md` when the knowledge vault is available. Project-specific methods and journal requirements remain here.
+This local grouping does not change the GitHub repository name or remote URL.
